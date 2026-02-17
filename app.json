@@ -28,7 +28,8 @@
     },
     "description": "AssisHelp using React Native\n",
     "plugins": [
-      "expo-router"
+      "expo-router",
+      "expo-font"
     ]
   }
 }
