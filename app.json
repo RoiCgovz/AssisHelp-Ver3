@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "assishelp",
     "name": "assishelp",
     "slug": "snack-64ae900b-17f8-4024-b5bd-e0f3b29a378d",
     "version": "1.0.0",
@@ -25,6 +26,9 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "AssisHelp using React Native\n"
+    "description": "AssisHelp using React Native\n",
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
